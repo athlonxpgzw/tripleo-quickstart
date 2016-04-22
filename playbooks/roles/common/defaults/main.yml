@@ -7,7 +7,7 @@ local_working_dir: "{{ lookup('env', 'HOME') }}/.quickstart"
 # overrides configured.
 default_disk: 50
 default_memory: 8192
-default_vcpu: 1
+default_vcpu: 4
 
 # The undercloud needs more than the default amount of memory
 # and disk.
