@@ -85,4 +85,4 @@ networks:
 
 # Set this to `true` if you want your undercloud and overcloud vms to
 # have a VNC console available.
-enable_vnc_console: false
+enable_vnc_console: true
